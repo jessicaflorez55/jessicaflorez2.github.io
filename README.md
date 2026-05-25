@@ -1,8 +1,8 @@
 # jessicaflorez2.github.io
-imagen dashboard
+![dashboard_Andes](images/dasboard_Andes.png)
 🏢 Andes Capital Real Estate: Dashboard de análisis comercial inmobiliario
 
-**Desafío**
+🎯**Desafío**
 
 La empresa inmobiliaria Andes Capital necesitaba transformar datos transaccionales en información estratégica para comprender mejor el desempeño comercial de sus operaciones.
 
@@ -22,13 +22,13 @@ Preparación y validación de datos
 Revisión de tipos de datos, valores nulos y duplicados.
 Estandarización de tablas de ventas, clientes y propiedades.
 Preparación de datos para modelado analítico.
-vista power query
+![query](images/query.png)
 
-**Modelado de datos**
+🧹**Modelado de datos**
 Construcción de un modelo en esquema estrella.
 Creación de relaciones entre tabla de hechos y dimensiones.
 Desarrollo de una tabla calendario para análisis temporal.
-imagen modelo estrella
+![estrella](images/estrella.png)
 
 **Desarrollo de métricas comerciales**
 
@@ -40,28 +40,28 @@ Comisión generada
 Clientes únicos
 Crecimiento interanual (YoY)
 Métricas acumuladas (YTD)
-tarjetas kpi
+![KPIs](images/KPIs.png)
 
-**Análisis comercial**
+💰**Análisis comercial**
 Evaluación de ventas por tipo de propiedad.
 Comparación de desempeño por canal comercial.
 Identificación de segmentos de clientes más valiosos.
 Análisis geográfico de ventas.
-imagen comercial 
+![analisis_comercial](images/analisis_comercial.png)
 
-**Análisis temporal**
+📅**Análisis temporal**
 Evolución de ventas mes a mes.
 Comparaciones año contra año.
 Identificación de tendencias de crecimiento.
-imagen tendencias
+![tendencias](images/tendencias.png)
 
-**Análisis de recurrencia**
+👥**Análisis de recurrencia**
 Construcción de cohortes de clientes.
 Evaluación de recompra y fidelización.
 Identificación de patrones de retención.
-imagen cohortes
+![cohorte](images/cohorte.png)
 
-**Resultado**
+📈**Resultado**
 
 El dashboard permitió consolidar la información comercial en una única herramienta de análisis, facilitando la identificación de oportunidades de crecimiento y segmentos estratégicos.
 
@@ -73,7 +73,7 @@ Monitoreo del crecimiento comercial mediante indicadores temporales.
 Visualización de patrones de recompra para apoyar estrategias de fidelización.
 
 
-**Herramientas utilizadas**
+🛠️**Herramientas utilizadas**
 Power BI
 DAX
 Power Query
