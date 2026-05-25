@@ -1,5 +1,7 @@
 # jessicaflorez2.github.io
 ![dashboard_Andes](images/dasboard_Andes.png)
+
+
 🏢 Andes Capital Real Estate: Dashboard de análisis comercial inmobiliario
 
 🎯**Desafío**
@@ -22,12 +24,16 @@ Preparación y validación de datos
 Revisión de tipos de datos, valores nulos y duplicados.
 Estandarización de tablas de ventas, clientes y propiedades.
 Preparación de datos para modelado analítico.
+
+
 ![query](images/query.png)
 
 🧹**Modelado de datos**
 Construcción de un modelo en esquema estrella.
 Creación de relaciones entre tabla de hechos y dimensiones.
 Desarrollo de una tabla calendario para análisis temporal.
+
+
 ![estrella](images/estrella.png)
 
 **Desarrollo de métricas comerciales**
@@ -37,9 +43,9 @@ Creación de indicadores para evaluar el desempeño del negocio:
 Ingresos totales
 Número de propiedades vendidas
 Comisión generada
-Clientes únicos
-Crecimiento interanual (YoY)
-Métricas acumuladas (YTD)
+Ticket promedio
+
+
 ![KPIs](images/KPIs.png)
 
 💰**Análisis comercial**
@@ -47,18 +53,24 @@ Evaluación de ventas por tipo de propiedad.
 Comparación de desempeño por canal comercial.
 Identificación de segmentos de clientes más valiosos.
 Análisis geográfico de ventas.
+
+
 ![analisis_comercial](images/analisis_comercial.png)
 
 📅**Análisis temporal**
 Evolución de ventas mes a mes.
 Comparaciones año contra año.
 Identificación de tendencias de crecimiento.
+
+
 ![tendencias](images/tendencias.png)
 
 👥**Análisis de recurrencia**
 Construcción de cohortes de clientes.
 Evaluación de recompra y fidelización.
 Identificación de patrones de retención.
+
+
 ![cohorte](images/cohorte.png)
 
 📈**Resultado**
