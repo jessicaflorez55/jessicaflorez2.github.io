@@ -1,5 +1,5 @@
 # jessicaflorez2.github.io
-![dashboard_Andes](images/dasboard_Andes.png)
+![dashboard_Andes](images/dashboard_Andes.png)
 
 
 🏢 Andes Capital Real Estate: Dashboard de análisis comercial inmobiliario
